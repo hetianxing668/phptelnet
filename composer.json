@@ -1,0 +1,14 @@
+{
+    "name": "hetianxing668/phptelnet",
+    "description": "this is phptelnet",
+    "type": "project",
+    "license": "none",
+    "authors": [
+        {
+            "name": "hesir",
+            "email": "593224651@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
